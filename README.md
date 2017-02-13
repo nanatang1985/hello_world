@@ -1,2 +1,5 @@
 # hello_world
-Just another repository
+
+Hi Everybody!
+
+Nana here, nice to meet you guys. 
